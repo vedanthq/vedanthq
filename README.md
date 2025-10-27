@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Vedanth+HQ;Explorer+at+the+Intersection+of+Code+and+Creativity;Building+the+future,+one+commit+at+a+time.&center=true&width=380&height=50&color=00ff99&vCenter=true&pause=1000&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Vedant+HQ;Explorer+at+the+Intersection+of+Code+and+Creativity;Building+the+future,+one+commit+at+a+time.&center=true&width=380&height=50&color=00ff99&vCenter=true&pause=1000&size=25">
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
 
 ### 🧭 The Mission Briefing
 
-Hello, I'm **Vedanth**. I believe the most elegant solutions are found at the intersection of logic and art. My journey is a constant expedition into this space, where I build, break, and learn. This repository is my logbook—a collection of projects, experiments, and ideas that fuel my curiosity.
+Hello, I'm **Vedant**. I believe the most elegant solutions are found at the intersection of logic and art. My journey is a constant expedition into this space, where I build, break, and learn. This repository is my logbook—a collection of projects, experiments, and ideas that fuel my curiosity.
 
 My core mission: **To craft meaningful digital experiences through clean code and creative problem-solving.**
 
